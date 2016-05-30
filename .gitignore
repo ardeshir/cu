@@ -1,0 +1,18 @@
+*.class
+
+# Mobile tools for java
+.mtj.tmp/
+
+# Package Files #
+
+*.jar
+*.war
+*.ear
+
+# Folders
+
+jars/
+doc/
+
+
+
